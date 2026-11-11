@@ -1,4 +1,4 @@
-# Picto:Bit · Comunicador esencial
+# Picto:Bit - Un Comunicador esencial
 
 **Un alumno enseña un pictograma a una cámara y su maestro lo ve a pantalla completa y lo oye, esté donde esté del aula.**
 
